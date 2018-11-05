@@ -2,7 +2,7 @@
 
 view here:
 
-<a href="www.magdry.pl">PORTFOLIO</a> by MagDry
+<a href="https://magdry.github.io/Portfolio/index.html">PORTFOLIO</a> by MagDry
 
 <ul>
   <li>HTML, SCSS, JS, Webpack</li>

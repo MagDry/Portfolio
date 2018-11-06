@@ -11,4 +11,6 @@ view here:
   <li>social media</li>
 </ul>
 
+<img src="https://github.com/MagDry/Portfolio/blob/master/images/portfolio.jpg?raw=true"/>
+
 

@@ -11,4 +11,4 @@ view here:
   <li>social media</li>
 </ul>
 
-<iframe src="https://www.magdry.com"></iframe>
+<iframe src="https://www.magdry.pl"></iframe>

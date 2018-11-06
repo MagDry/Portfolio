@@ -1,0 +1,92 @@
+.tabulaRasa {
+    width: 80%;
+    height: auto;
+    border: solid 1px rgb(255, 255, 255);
+    box-shadow: 4px 4px 4px 0 gray;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    background: rgb(255, 255, 255);
+
+    //dane osobiste
+    .identy {
+        width: 100%;
+        height: 300px;
+        border: solid 1px red;
+        display: flex;
+        #photoCV {
+            width: 210px;
+            height: 220px;
+            margin: 5%;
+            background-image: url("https://zapodaj.net/images/2f63f9c081deb.jpg");
+            background-size: cover;
+            
+        }
+        #personalData {
+            margin-top: 7%;
+            margin-left: 1%;
+            h1{
+                margin-bottom: 10%;
+            }
+            p {
+                margin-top: 15px;
+                a {
+                    text-decoration: none;
+                    color: black;
+                }
+            }
+        }
+    }
+
+    //wykształcenie
+    .education {
+        width: 100%;
+        height: auto;
+        border: solid 1px green;
+        h2 {
+            margin-left: 5%;
+            margin-bottom: 3%;
+        }
+        .school {
+            height: auto;
+            margin-left: 5%;
+            margin-bottom: 2%;
+            h2 {
+                margin-top: 2%;
+            }
+            .usual {
+                margin-left: 3%;
+            }
+            .bold {
+                font-weight: 800;
+            }
+
+        }
+    }
+
+}
+
+
+
+
+
+//     //wykształcenie
+//     #education {
+//         position: relative;
+//         h2 {
+//             position: absolute;
+//             margin-top: 300px;
+//             margin-left: 5%;    
+//         }
+//         .date {
+//             margin-left: 5%;
+//         }
+//         .usual {
+//             margin-left: 7%;
+//         }
+//         .bold {
+//             font-weight: 800;
+//         }
+
+//     }
+   
+// }

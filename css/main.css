@@ -70,7 +70,8 @@ footer {
     left: 0;
     top: 0;
     width: 5%;
-    height: 100%;
+    height: 70%;
+    margin-top: 4.5%;
     background: rgba(128, 128, 128, 0.068);
     border: 0;
     text-indent: -999px;
@@ -116,3 +117,50 @@ footer {
       display: none; }
     .slider .sliderAll .visible {
       display: block; }
+
+.tabulaRasa {
+  width: 80%;
+  height: auto;
+  border: solid 1px white;
+  box-shadow: 4px 4px 4px 0 gray;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  background: white; }
+  .tabulaRasa .identy {
+    width: 100%;
+    height: 300px;
+    border: solid 1px red;
+    display: flex; }
+    .tabulaRasa .identy #photoCV {
+      width: 210px;
+      height: 220px;
+      margin: 5%;
+      background-image: url("https://zapodaj.net/images/2f63f9c081deb.jpg");
+      background-size: cover; }
+    .tabulaRasa .identy #personalData {
+      margin-top: 7%;
+      margin-left: 1%; }
+      .tabulaRasa .identy #personalData h1 {
+        margin-bottom: 10%; }
+      .tabulaRasa .identy #personalData p {
+        margin-top: 15px; }
+        .tabulaRasa .identy #personalData p a {
+          text-decoration: none;
+          color: black; }
+  .tabulaRasa .education {
+    width: 100%;
+    height: auto;
+    border: solid 1px green; }
+    .tabulaRasa .education h2 {
+      margin-left: 5%;
+      margin-bottom: 3%; }
+    .tabulaRasa .education .school {
+      height: auto;
+      margin-left: 5%;
+      margin-bottom: 2%; }
+      .tabulaRasa .education .school h2 {
+        margin-top: 2%; }
+      .tabulaRasa .education .school .usual {
+        margin-left: 3%; }
+      .tabulaRasa .education .school .bold {
+        font-weight: 800; }

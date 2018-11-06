@@ -10,3 +10,5 @@ view here:
   <li>curriculum vitae</li>
   <li>social media</li>
 </ul>
+
+<iframe src="https://www.magdry.com"></iframe>

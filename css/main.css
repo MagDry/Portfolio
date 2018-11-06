@@ -129,7 +129,6 @@ footer {
   .tabulaRasa .identy {
     width: 100%;
     height: 300px;
-    border: solid 1px red;
     display: flex; }
     .tabulaRasa .identy #photoCV {
       width: 210px;
@@ -147,20 +146,27 @@ footer {
         .tabulaRasa .identy #personalData p a {
           text-decoration: none;
           color: black; }
-  .tabulaRasa .education {
+  .tabulaRasa .boxes {
     width: 100%;
     height: auto;
-    border: solid 1px green; }
-    .tabulaRasa .education h2 {
+    margin-bottom: 1%; }
+    .tabulaRasa .boxes h2 {
       margin-left: 5%;
       margin-bottom: 3%; }
-    .tabulaRasa .education .school {
+    .tabulaRasa .boxes .school {
       height: auto;
       margin-left: 5%;
       margin-bottom: 2%; }
-      .tabulaRasa .education .school h2 {
+      .tabulaRasa .boxes .school h2 {
         margin-top: 2%; }
-      .tabulaRasa .education .school .usual {
+      .tabulaRasa .boxes .school .usual {
         margin-left: 3%; }
-      .tabulaRasa .education .school .bold {
+      .tabulaRasa .boxes .school .bold {
         font-weight: 800; }
+  .tabulaRasa .footer {
+    margin-left: 5%;
+    margin-right: 5%;
+    background: white;
+    color: grey;
+    font-size: 10px;
+    text-align: center; }

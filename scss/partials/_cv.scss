@@ -11,7 +11,7 @@
     .identy {
         width: 100%;
         height: 300px;
-        border: solid 1px red;
+        // border: solid 1px red;
         display: flex;
         #photoCV {
             width: 210px;
@@ -37,11 +37,18 @@
         }
     }
 
+    //kursy, certyfikaty
     //wykształcenie
-    .education {
+    //umiejętności
+    //doświadczenie
+    //język
+    //organizacje
+    //zainteresowania
+    .boxes {
         width: 100%;
         height: auto;
-        border: solid 1px green;
+        // border: solid 1px green;
+        margin-bottom: 1%;
         h2 {
             margin-left: 5%;
             margin-bottom: 3%;
@@ -59,34 +66,20 @@
             .bold {
                 font-weight: 800;
             }
-
         }
+    }
+    
+    //stopka
+    .footer {
+        margin-left: 5%;
+        margin-right: 5%;
+        background: white;
+        color: grey;
+        font-size: 10px;
+        text-align: center;
+
     }
 
 }
 
 
-
-
-
-//     //wykształcenie
-//     #education {
-//         position: relative;
-//         h2 {
-//             position: absolute;
-//             margin-top: 300px;
-//             margin-left: 5%;    
-//         }
-//         .date {
-//             margin-left: 5%;
-//         }
-//         .usual {
-//             margin-left: 7%;
-//         }
-//         .bold {
-//             font-weight: 800;
-//         }
-
-//     }
-   
-// }

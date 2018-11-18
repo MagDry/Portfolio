@@ -29,7 +29,7 @@ rightBtn.addEventListener('click', function(){
         imgClass[index+1].classList.remove('visible');        
         imgClass[index+2].classList.remove('visible');        
             index++;
-        if (index==6) {
+        if (index==7) {
             index=0;
         }
         imgClass[index].classList.add('visible');

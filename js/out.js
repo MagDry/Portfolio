@@ -579,7 +579,7 @@ document.addEventListener('DOMContentLoaded', function () {
         imgClass[index + 1].classList.remove('visible');
         imgClass[index + 2].classList.remove('visible');
         index++;
-        if (index == 8) {
+        if (index == 9) {
             index = 0;
         }
         imgClass[index].classList.add('visible');
